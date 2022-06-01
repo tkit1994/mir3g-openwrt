@@ -21,7 +21,8 @@ echo "src-git PWluci https://github.com/xiaorouji/openwrt-passwall.git;luci" >> 
 echo 'src-git cnsilvan https://github.com/cnsilvan/luci-app-unblockneteasemusic'  >> feeds.conf.default
 git clone https://github.com/mchome/openwrt-vlmcsd package/openwrt-vlmcsd
 git clone https://github.com/mchome/luci-app-vlmcsd package/luci-app-vlmcsd
-git clone https://github.com/jerrykuku/luci-app-go-aliyundrive-webdav.git package/luci-app-go-aliyundrive-webdav
 git clone https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argon
 git clone https://github.com/kuoruan/openwrt-upx.git package/openwrt-upx
-git clone https://github.com/jerrykuku/go-aliyundrive-webdav.git package/go-aliyundrive-webdav
+# git clone https://github.com/jerrykuku/go-aliyundrive-webdav.git package/go-aliyundrive-webdav
+# git clone https://github.com/jerrykuku/luci-app-go-aliyundrive-webdav.git package/luci-app-go-aliyundrive-webdav
+
